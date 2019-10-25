@@ -1,0 +1,9 @@
+{
+    "name": "vendor/excel-parser",
+    "description": "excel parser with phpoffice",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "phpoffice/phpspreadsheet": "dev-master"
+    }
+}
